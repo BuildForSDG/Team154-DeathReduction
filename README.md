@@ -1,6 +1,6 @@
 # road-death-reduction
 
-Project Name                    : Road Accident Reduction (RAR) System in PHP
+Project Name                    : Road Death Reduction (RDR) System in PHP
 
 Language Used                   :  PHP
 
@@ -12,7 +12,7 @@ Web Browser                     :  Mozilla, Google Chrome, IE8,OPERA
 
 Software                        :  XAMPP Server
 
-# Modules of Road Accident Reduction System
+# Modules of Road Death Reduction System
 Admin
 Users
 
@@ -38,7 +38,7 @@ Users
 7. View his/her report status if it was handled
 
 # Dashboard
-How to run the Complaint Management System (CMS) Project
+How to run the (RDR) Project
 1. Download the file
 2. Copy folder
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
